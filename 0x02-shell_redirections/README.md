@@ -13,3 +13,4 @@ Counting directories script
 10 newest files script
 unique inputs script
 Root pattern script
+bin pattern count script
