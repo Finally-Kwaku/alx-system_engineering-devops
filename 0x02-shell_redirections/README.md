@@ -12,3 +12,4 @@ Deletes javascript files
 Counting directories script
 10 newest files script
 unique inputs script
+Root pattern script
