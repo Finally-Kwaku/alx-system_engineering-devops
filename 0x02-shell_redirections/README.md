@@ -7,3 +7,4 @@ First 10 lines of /etc/passwd
 Third line iacta script
 Best school script
 Current state of directory script
+Duplicate last line script
