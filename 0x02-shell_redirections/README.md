@@ -5,3 +5,4 @@ What about 2? script
 Last 10 lines of a file script
 First 10 lines of /etc/passwd
 Third line iacta script
+Best school script
