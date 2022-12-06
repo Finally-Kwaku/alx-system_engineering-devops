@@ -11,3 +11,4 @@ Divided power script
 Love and breath script
 Binary to decimal script
 Two letter combination script
+Two decimal places script
