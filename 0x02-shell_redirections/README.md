@@ -18,3 +18,4 @@ Root pattern and 3 lines of /etc/passwd script
 Hide bin script
 Begins with letters only script
 Replace letters script
+Without C script
