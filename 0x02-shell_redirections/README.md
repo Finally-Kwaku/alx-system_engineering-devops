@@ -2,4 +2,4 @@ Hello world script
 Confused smiley script
 Let's display a file script
 What about 2? script
-Last lines of a file script
+Last 10 lines of a file script
