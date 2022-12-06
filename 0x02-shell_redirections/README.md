@@ -20,3 +20,4 @@ Begins with letters only script
 Replace letters script
 Without C script
 Reverse input script
+DJ Cut Killer script
