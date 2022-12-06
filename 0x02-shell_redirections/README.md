@@ -11,3 +11,4 @@ Duplicate last line script
 Deletes javascript files
 Counting directories script
 10 newest files script
+unique inputs script
