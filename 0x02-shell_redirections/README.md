@@ -23,3 +23,4 @@ Reverse input script
 DJ Cut Killer script
 Empty noise script
 10000 words script
+Acrostic script
