@@ -19,3 +19,4 @@ Hide bin script
 Begins with letters only script
 Replace letters script
 Without C script
+Reverse input script
