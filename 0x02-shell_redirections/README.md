@@ -14,3 +14,4 @@ Counting directories script
 unique inputs script
 Root pattern script
 bin pattern count script
+Root pattern and 3 lines of /etc/passwd script
