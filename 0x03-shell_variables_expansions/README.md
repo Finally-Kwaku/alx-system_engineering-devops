@@ -4,3 +4,4 @@ Path=action script
 Beautiful path script
 Global variables script
 Local and environment variables script
+New local variable script
