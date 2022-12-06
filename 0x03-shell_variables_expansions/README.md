@@ -10,3 +10,4 @@ True knowledge script
 Divided power script
 Love and breath script
 Binary to decimal script
+Two letter combination script
