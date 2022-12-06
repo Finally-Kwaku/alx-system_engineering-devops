@@ -8,3 +8,4 @@ Third line iacta script
 Best school script
 Current state of directory script
 Duplicate last line script
+Deletes javascript files
