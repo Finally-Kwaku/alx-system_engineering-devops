@@ -13,3 +13,4 @@ Binary to decimal script
 Two letter combination script
 Two decimal places script
 Decimal converter script
+Encryption script
