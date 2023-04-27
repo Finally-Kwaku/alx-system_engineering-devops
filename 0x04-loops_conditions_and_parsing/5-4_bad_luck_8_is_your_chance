@@ -2,7 +2,7 @@
 #This script  that loops from 1 to 10 with 3 conditions
 
 n="0"
-while [ $i -lt 10 ]
+while [ $n -lt 10 ]
 do
 	if ((n == 3))
 	then
