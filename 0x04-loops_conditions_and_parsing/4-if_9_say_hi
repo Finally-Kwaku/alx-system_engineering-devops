@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Best School" and "Hi"
+# This script displays "Best School" and "Hi"
 
 n="0"
 while [ $n -lt 10 ]
