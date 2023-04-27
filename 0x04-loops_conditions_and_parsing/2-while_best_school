@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # This script displays "Best School" 10 
 
-x="0"
-while [ $x -lt 10 ]
+n="0"
+while [ $n -lt 10 ]
 do
     echo "Best School"
-    x=$((x+1))
+    n=$((n+1))
 done
