@@ -25,7 +25,6 @@ Display the contents list of your current directory.
 ---
 
 Write a script that changes the working directory to the user’s home directory.
-
 * You are not allowed to use any shell variables
 
 
@@ -103,6 +102,7 @@ Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be cre
 ---
 
 Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+
 You can consider that all HTML files have the extension .html
 
 
@@ -132,8 +132,7 @@ You are only allowed to use two spaces (and lines) in your script, not more.
 ---
 
 Write a command that lists all the files and directories of the current directory, separated by commas (,).
-
-*Directory names should end with a slash (/)
+* Directory names should end with a slash (/)
 * Files and directories starting with a dot (.) should be listed
 * The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning
 * Only digits and letters are used to sort; Digits should come first
