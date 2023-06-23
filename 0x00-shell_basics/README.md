@@ -20,7 +20,7 @@ Write a script that prints the absolute path name of the current working directo
 
 
 [1. What’s in there?](0x00-shell_basics/1-listit)
----
+
 
 Display the contents list of your current directory.
 
