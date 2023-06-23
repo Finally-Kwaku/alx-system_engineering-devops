@@ -106,12 +106,12 @@ Write a script that adds execution permission to the owner, the group owner and 
 	total 8
 	-rwxrw-r-- 1 julien julien 28 Sep 20 14:35 7-everybody
 	-rw-r----- 1 julien julien 23 Sep 20 14:25 hello
-	julien@ubuntu:/tmp/h$ ./7-everybody 
+	julien@ubuntu:/tmp/h$ ./7-everybody
 	julien@ubuntu:/tmp/h$ ls -l
 	total 8
 	-rwxrw-r-- 1 julien julien 28 Sep 20 14:35 7-everybody
 	-rwxr-x--x 1 julien julien 23 Sep 20 14:25 hello
-	julien@ubuntu:/tmp/h$ 
+	julien@ubuntu:/tmp/h$
 
 [8. James Bond](https://github.com/Finally-Kwaku/alx-system_engineering-devops/blob/master/0x01-shell_permissions/8-James_Bond)
 
