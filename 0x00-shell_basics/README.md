@@ -5,8 +5,8 @@
 This project is an introductory crash course in the Shell. I learned how to navigate directories using cd, pwd, ls, how to look around using ls, les and file and how to manipulate files with cp, mv, rm, and mkdir. Furthermore, I learned how to use the type, which, help, and man commands, implementing wildcards, reading man pages, creating links, and using keyboard shortcuts in Bash.
 
 
-TASKS
-===
+## TASKS
+
 
 
 [0. Where am I?](https://github.com/Finally-Kwaku/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)
@@ -19,7 +19,7 @@ Write a script that prints the absolute path name of the current working directo
 	$
 
 
-`1. What’s in there?`
+[1. What’s in there?](0x00-shell_basics/1-listit)
 ---
 
 Display the contents list of your current directory.
