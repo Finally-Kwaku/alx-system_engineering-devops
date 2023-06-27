@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Connecting to the container and fixing whatever needs to be fixed
+sudo service apache2 start
