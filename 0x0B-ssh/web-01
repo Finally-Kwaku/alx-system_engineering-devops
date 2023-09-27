@@ -1,8 +1,4 @@
 #!/usr/bin/env bash
-# webserver-01
-
-eval $("ssh-agent")
-
-ssh-add ~/.ssh/school
-
-ssh ubuntu@54.90.31.17
+# Connect to your server using the private key ~/.ssh/school
+# with the user ubuntu
+ssh -i ~/.ssh/school ubuntu@54.84.209.221
